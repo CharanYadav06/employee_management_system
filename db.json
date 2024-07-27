@@ -1,0 +1,48 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSLk-zOT6LhOK5DfCt-_-khEFvCeZ1voYF-Q&s",
+      "name": "Hukum",
+      "email": "hcgupta@cstech.in",
+      "mobile": "954010044",
+      "designation": "HR",
+      "gender": "Male",
+      "course": "MCA",
+      "date": "2021-02-13"
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnY8k4uXKv429FJkjP00thphr81cWXccfeNg&s",
+      "name": "Manish",
+      "email": "manish@cstech.in",
+      "mobile": "9504010022",
+      "designation": "Sales",
+      "gender": "Male",
+      "course": "BCA",
+      "date": "2021-02-12"
+    },
+    {
+      "id": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCDv0YcATzcm5qoopZz9I8V0Ox5hWhl5ILw&s",
+      "name": "Yash",
+      "email": "yash@cstech.in",
+      "mobile": "9504010033",
+      "designation": "Manager",
+      "gender": "Male",
+      "course": "BSC",
+      "date": "2021-02-11"
+    },
+    {
+      "id": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2LpNoUgohEiloPxoN7YK3-IkzaScFuomGqw&s",
+      "name": "Abhishek",
+      "email": "abhishek@cstech.in",
+      "mobile": "9504010044",
+      "designation": "HR",
+      "gender": "Male",
+      "course": "MCA",
+      "date": "2021-02-13"
+    }
+  ]
+}
